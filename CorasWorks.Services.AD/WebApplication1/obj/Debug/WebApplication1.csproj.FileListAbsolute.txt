@@ -1,0 +1,1 @@
+C:\Code\ADService\CorasWorks.Services.AD\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
